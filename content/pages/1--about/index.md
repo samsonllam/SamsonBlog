@@ -2,27 +2,24 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+### Education:
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+* **The University of Hong Kong** (2016 - 2020)
+    * Computer Science, Bachelor of Engineering (BEng)
+* **Peking University** (2017)
+    * Computer Science and Economy, Visiting Scholar
 
-### Standard features:
+### Experience:
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifes.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
+* **Student Partner**, Microsoft Hong Kong
+* **FinTech Innovation Partner**, UBS Group AG
+* **Programming Summer Analyst**, Introv Limited
+* **Hong Kong Early Outreach Participant**, Credit Suisse
+* **AIA innovation Partner**, AIA
+* **Student Representative**,Department of Computer Science, The University of Hong Kong
+* **Technical Trainee**, Infocan Compter (Hong Kong) Limited
 
-### Advanced features:
+<!-- ### Advanced features:
 
 * Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
 * **Components** lazy loading (social sharing, comments)
@@ -30,8 +27,4 @@ The starter is a ready to use, easy to customize 'like theme' starter. It has ev
 * **Prettier** code styling
 * Custom webpack `CommonsChunkPlugin` settings
 * Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
-
-## Instructions
-
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+* Contact **form validation** (react-material-ui-form-validator) -->
