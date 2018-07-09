@@ -1,7 +1,7 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
+  siteTitle: "Samson Lam - PersonalBlog", // <title>
   shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
   siteDescription: "PersonalBlog is a GatsbyJS starter.",
   siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
@@ -12,10 +12,10 @@ module.exports = {
   authorName: "greg lobinski",
   authorTwitterAccount: "greglobinski",
   // info
-  infoTitle: "greg lobinski",
+  infoTitle: "Samson Lam",
   infoTitleNote: "personal blog",
   // manifest.json
-  manifestName: "PersonalBlog - a blog starter for GatsbyJS",
+  manifestName: "Samson Lam - PersonalBlog",
   manifestShortName: "PersonalBlog", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,
