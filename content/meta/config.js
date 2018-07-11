@@ -25,8 +25,7 @@ module.exports = {
   contactEmail: "samson_lam@hku.hk",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/samsonllam" },
+    { name: "linkedin", url: "https://www.linkedin.com/in/samson-lam/" }
   ]
 };
