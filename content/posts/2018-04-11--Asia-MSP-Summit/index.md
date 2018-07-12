@@ -7,7 +7,7 @@ cover: 34689872_10155757666098681_4092567816874491904_o.jpg
 
  ![](./34689872_10155757666098681_4092567816874491904_o.jpg)
 
-Asia MSP Summit 2018 gathered 100 Microsoft Student Partners(MSP) from 12 countries. I was the one who had the chance luckily joining this amazing summit.
+`Asia MSP Summit 2018` gathered 100 Microsoft Student Partners(MSP) from 12 countries. I was the one who had the chance luckily joining this amazing summit.
 
  ![](./IMG_1264.jpg)
 
