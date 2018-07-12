@@ -9,6 +9,7 @@ menuTitle: About Me
 
 * **The University of Hong Kong** (2016 - 2020)
     * Computer Science, Bachelor of Engineering (BEng)
+    * Japanese Language, Minor in Department of Japanese Studies
 * **Peking University** (2017)
     * Computer Science and Economy, Visiting Scholar
 
