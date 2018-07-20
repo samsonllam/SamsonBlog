@@ -40,14 +40,3 @@ menuTitle: About Me
 * **Director's List 2016**
 * **Dean List 2016**
 * **HSBC Vocational Education Scholarship 2016**
-
-
-<!-- ### Advanced features:
-
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator) -->
