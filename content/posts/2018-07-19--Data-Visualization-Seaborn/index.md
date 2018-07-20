@@ -1,9 +1,11 @@
 ---
-title: Data Visualization - Seaborn
-subTitle: Seaborn
-category: "Machine Learning"
-cover: cover.jpg
+title: Find relationship in dataset
+subTitle: Statistical Data Visualization - seaborn
+category: "Data Science"
+cover: pairplot.png
 ---
+
+To find the relationship between two columns in dataset, [seaborn](https://seaborn.pydata.org/) can find it by using a scatter plot matrix.
 
 ```python
 # Create a scatter plot matrix
@@ -14,6 +16,14 @@ num_cols = ["Age", "Height", "Weight", "Duration",
 sns.pairplot(frame[num_cols], size=2)
 ```
 
-![](./cover.jpg)
+![](./pairplot.png)
 
-https://courses.edx.org/courses/course-v1:Microsoft+DAT228x+2T2018/courseware/50bfda87c2a34d55a402a0ef642e45ad/4205b306efab4760a5073ec25bd13997/2?activate_block_id=block-v1%3AMicrosoft%2BDAT228x%2B2T2018%2Btype%40video%2Bblock%407e461e9924aa47bc839dd1eb459bc342
+To show details in two specific data, e.g. Duration and Calories
+
+```python
+# Plot duration vs calories by gender
+sns.lmplot(x = 'Duration', y = 'Calories', data = frame,
+ hue = "Gender", palette = "Set2", fit_reg = False) 
+```
+
+![](./lmplot.png)
