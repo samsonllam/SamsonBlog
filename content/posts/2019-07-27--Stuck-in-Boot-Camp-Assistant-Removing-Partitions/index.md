@@ -2,7 +2,7 @@
 title: Stuck in Boot Camp Assistant Removing Partitions
 subTitle: Stuck on "please wait while boot camp assistant is removing the partitions it created"
 category: "MacOS"
-cover: cover.jpg
+cover: cover.png
 ---
 
 If you are installing Windows in your MacBook using Boot Camp. After downloading Windows Support Software, "The Windows Support Software Could Not Be Saved To The Selected Drive folder" error occurs.
