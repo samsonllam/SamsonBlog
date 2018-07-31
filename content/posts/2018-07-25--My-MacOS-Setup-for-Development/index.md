@@ -19,8 +19,20 @@ Node Version Manager - Simple bash script to manage multiple active node.js vers
 
 ```shell
 brew install nvm
-nvm install node # install the latest release of node
-nvm use node #use the installed version
+
+mkdir ~/.nvm #create NVM's working directory
+
+#add the following to ~/.bash_profil
+export NVM_DIR="$HOME/.nvm" 
+. "/usr/local/opt/nvm/nvm.sh" 
+
+#install Node.js latest version
+nvm install node
+nvm use node
+
+#install Node.js LTS version
+nvm install --lts
+nvm use --lts
 ```
 
 #npm
