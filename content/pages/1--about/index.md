@@ -31,6 +31,7 @@ menuTitle: About Me
 
 ### Honors & Awards:
 
+* **APAC First-Runner Up, 2018 UBS GCOO Case Challenge**, UBS AG
 * **RISE Scholarship Awardee**, Launch Campus
 * **UBS Champion Award**, UBS x RADICA x POLYU BigDatathon 2018
 * **2018 Imagine Cup Hong Kong National Finalist**, Microsoft
