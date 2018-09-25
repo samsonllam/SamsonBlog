@@ -2,4 +2,4 @@
 title: info
 ---
 
-Microsoft Student Partner | Programmer | Change Agent | Fintech Innovation Partner
+FinTech Accelerator | HSBC Scholar | Winner 2018 UBS Big Datathon and Credit Suisse CodeIT
