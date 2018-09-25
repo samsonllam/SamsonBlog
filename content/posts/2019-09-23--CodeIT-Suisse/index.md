@@ -1,6 +1,6 @@
 ---
 title: A Humble Road to an APAC First-Runner Up
-subTitle: 2018 UBS GCOO Case Challenge
+subTitle: 2018 Credit Suisse CodeIT Suisse
 category: "Blog"
 cover: cover.jpg
 ---
