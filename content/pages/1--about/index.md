@@ -15,10 +15,11 @@ menuTitle: About Me
 
 ### Experience:
 
-* **Student Partner**, Microsoft Hong Kong
+* **Student Partner**, Microsoft Hong Kong.
+* **FinTech Innovation Partne**, Credit Suisse
 * **FinTech Innovation Partner**, UBS Group AG
+* **Supply Chain Data Analyst**, Li & Fung Group
 * **Analyst Programmer**, Introv Limited
-* **Hong Kong Early Outreach Participant**, Credit Suisse
 * **AIA innovation Partner**, AIA
 * **Student Representative**, Department of Computer Science, The University of Hong Kong
 * **Technical Trainee**, Infocan Compter (Hong Kong) Limited
@@ -31,6 +32,8 @@ menuTitle: About Me
 
 ### Honors & Awards:
 
+* **Champion, CodeIT Suisse Challenge**, Credit Suisse
+* **First-Runner Up (Smart Mobility Category), Smart City Hackathon Hong Kong 2018**, Hitachi Vantara
 * **APAC First-Runner Up, 2018 UBS GCOO Case Challenge**, UBS AG
 * **RISE Scholarship Awardee**, Launch Campus
 * **UBS Champion Award**, UBS x RADICA x POLYU BigDatathon 2018
