@@ -1,5 +1,5 @@
 ---
-title: A Humble Road to an APAC First-Runner Up
+title: First Place in CodeIT
 subTitle: 2018 Credit Suisse CodeIT Suisse
 category: "Blog"
 cover: cover.jpg
