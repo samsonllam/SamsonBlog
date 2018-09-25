@@ -5,14 +5,14 @@ category: "Blog"
 cover: cover.jpg
 ---
 
-Today’s wealth management bottleneck ties with the identification of emerging mass affluent, the efficiency of account opening, the sensitivity towards regulatory changes, and the minimization of operational costs.
+A humble victory to mark the end of an explosive Q3 in 2018! Hats off to Haley Kwok, Jeffrey Hui for making our dream come true at Credit Suisse. Cracking down 11 separated challenges non-stop for 27 hours, 2018 CodeIT Suisse is indeed a stress test to examine my takeaways from previous tournaments covering deep learning and web framework implementation, and our competitors scored really close since they were the sharpest blades that this generation has to offer.
 
-![](./38845791_10214629727555631_3381683392889225216_n.jpg)
+![](./team_photo.jpg)
 
-Being part of the competing team with Lam Ka Yiu and Ronnie Ng, we share a broader perspective that comes from a strong underlying passion to make UBS better, beyond our own project agenda, because what happens in this building is going to impact the rest of the market. With 3 strategic priorities complimented by 4 cutting-edge innovations, we are so blessed to witness the moment when our proposal was adopted by a vast majority of industry professionals.
+Celebrating success and reflecting on losses reaffirms my enthusiasm for entrepreneurship & technology trends, and emotional intelligence is without a doubt the key to keeping me calm and motivated on the hunt.
 
-![](./38780526_10214629727635633_6629377571513434112_n.jpg)
+![](./leaderboard.jpg)
 
-A sincere thanks goes to my dearest big brother Charles Wong, who has been guiding me along the way, from business dressing, market intelligence to strategy execution…...your good deeds will always be remembered, and I will keep it up to surpass your streak.
+My team and I look forward to unleashing our forces for the remaining Q4. Stay blessed everyone and hit me up if we have to pleasure to collaborate on forthcoming projects.
 
-![](./38758764_10214629727275624_9040628093307322368_n.jpg)
+![](./cert.jpg)
