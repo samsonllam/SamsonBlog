@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Samson Lam - PersonalBlog", // <title>
   shortSiteTitle: "Samson Lam - PersonalBlog", // <title> ending for posts and pages
   siteDescription: "Samson Lam - PersonalBlog",
-  siteUrl: "https://samsonlam.nets.hk",
+  siteUrl: "https://blog.samsonlam.me",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
