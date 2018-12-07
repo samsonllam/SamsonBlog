@@ -1,6 +1,6 @@
 ---
 title: Asia MSP Summit | Microsoft Student Partner
-subTitle: Microsoft Student Partner
+subTitle: Asia Microsoft Student Partner Summit
 category: "Blog"
 cover: 34689872_10155757666098681_4092567816874491904_o.jpg
 ---
