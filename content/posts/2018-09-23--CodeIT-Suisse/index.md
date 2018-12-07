@@ -1,6 +1,6 @@
 ---
 title: Champion in Credit Suisse CodeIT Suisse Challenge 2018
-subTitle: Credit Suisse CodeIT Suisse Challenge 2018 
+subTitle: CodeIT Suisse Challenge 2018 
 category: "Blog"
 cover: cover.jpg
 ---
