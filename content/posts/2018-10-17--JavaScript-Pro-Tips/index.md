@@ -1,7 +1,7 @@
 ---
 title: Javascript Pro Tips - Console Log
 subTitle: Javascript Pro Tips
-category: "Code"
+category: "Pro Tips"
 cover: cover.jpg
 ---
 
