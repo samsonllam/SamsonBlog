@@ -11,7 +11,7 @@ Find the Android SDK Location from SDK Manager in Android Studio.
 
 Show The list of emulator device which have been already created
 ```bash
-cd <Android SDK Location>\tools
+cd <Android SDK Location>\emulator
 emulator -list-avds
 ```
 Output
