@@ -224,6 +224,13 @@ module.exports = {
       options: {
         include: /svg-icons/
       }
+    },
+    {
+      resolve: "@loicmahieu/gatsby-plugin-sentry",
+      options: {
+        dsn: "https://e23518c6fafe4cbd8bdb2f7d1b2e4bae@o383804.ingest.sentry.io/5214224",
+        // Any sentry client settings, see https://docs.sentry.io/clients/node/config/#optional-settings
+      }
     }
   ]
 };
